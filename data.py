@@ -5,12 +5,12 @@ print("Hello World")
 #list
 
 list = ["cat", "dog", "monkey"]
-print (2)
+print(1)
 
 #dictionary
 
 dictionary = { "spring": "rain", "summer": "sun"}
-print(dictionary)
+print(dictionary[spring])
 
 #tuple
 
